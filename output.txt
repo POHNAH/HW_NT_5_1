@@ -1,0 +1,5 @@
+Action.c(10): Итерация №1
+Action.c(10): Итерация №2
+Action.c(10): Итерация №3
+Action.c(10): Итерация №4
+Vuser Terminated.
